@@ -5,25 +5,30 @@
 <events>
  <track type="3" name="early">
   <event>
-    <title>Julius Caesar invades Britain</title>
+    <title>Democratic Republic of the Congo Gain Independence</title>
     <date type="start">
-      <year>0080</year>
-      <era>BC</era>
+      <year>1960</year>
+      <month>06</month>
+      <day>30</day>
+      <era>AD</era>
     </date>
     <date type="end">
-      <year>0054</year>
-      <era>BC</era>
+      <year>1960</year>
+      <month>06</month>
+      <day>30</day>
+      <era>AD</era>
     </date>
-    <description>Julius Caesar led the first Roman expedition to Britain, landing on the Kent coast.</description>
-    <lat>51.1789</lat>
-    <lon>1.1713</lon>
+    <description>On June 30, 1960, the Democratic Republic of the Congo became independence from Belgium. after years of colonial rule.</description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
   </event>
 
   <event>
-    <title>Battle of Actium</title>
+    <title>Laurent-Desire Kabile Is Assassinated</title>
     <date type="start">
-      <year>0031</year>
-      <month>09</month>
+      <year>2001</year>
+      <month>01</month>
+      <day>16</day>
       <era>BC</era>
     </date>
     <date type="end">
@@ -31,78 +36,82 @@
     <month>07</month>
     <era>BC</era>
     </date>
-    <description>Octavian defeated the combined forces of Mark Antony and Cleopatra, becoming Rome's first emperor.</description>
-    <lat>38.9419</lat>
-    <lon>20.7400</lon>
+    <description>Laurent_Desire Kabila was Assassinated in Kinshasa in 2001.</description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
+    <media>https://www.britannica.com/biography/Laurent-Kabila</media>
   </event>
   </track>
  
  <track type="2" name="mid">
   <event>
-    <title>Storming of the Bastille</title>
+    <title>Felix Tshisekedi Becomes President</title>
     <date type="start">
-      <year>1789</year>
-      <month>07</month>
-      <day>14</day>
+      <year>2019</year>
+      <month>01</month>
+      <day>24</day>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>Parisian crowds stormed the Bastille fortress, marking the start of the French Revolution.</description>
-    <lat>48.8533</lat>
-    <lon>2.3692</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prise_de_la_Bastille.jpg/640px-Prise_de_la_Bastille.jpg</media>
+    <description>Felix Tshiaekedi Became President of the Democratic Republic of the Congo in 2019.</description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
+    <media>https://www.britannica.com/biography/Felix-Tshisekedi</media>
   </event>
  
   <event>
-    <title>Declaration of the Rights of Man</title>
+    <title>Laurent-Desire Kabile Become a President</title>
     <date type="start">
-      <year>1789</year>
-      <month>08</month>
-      <day>26</day>
+      <year>1997</year>
+      <month>05</month>
+      <day>17</day>
       <era>AD</era>
     </date>
   <!--  <date type="end">
     </date>-->
-    <description>The National Constituent Assembly adopted this foundational document of human rights.</description>
-    <lat>48.8566</lat>
-    <lon>2.3522</lon>
+    <description>Laurent-Desire Kabila became president after overthorwing Mobute.</description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
+    <media>https://www.britannica.com/biography/Laurent-Kabila</media>
   </event>
- 
+   
   <event>
-    <title>Execution of Louis XVI</title>
+    <title>Mobute Seizes Power</title>
     <date type="start">
-      <year>1793</year>
-      <month>01</month>
-      <day>21</day>
+      <year>1965</year>
+      <month>11</month>
+      <day>24</day>
       <era>AD</era>
     </date>
 <!--    <date type="end">
     </date>-->
-    <description>King Louis XVI was guillotined at the Place de la Révolution in Paris.</description>
-    <lat>48.8656</lat>
-    <lon>2.3212</lon>
+    <description>Mobute Sese Seko Seized power in a military coup in 1965</description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
+    <media>https://www.britannica.com/place/Democratic-Republic-of-the-Congo/Mobutus-regime</media>
   </event>
  </track>
-
 <track type="3" name="late">
   <event>
-    <title>Napoleon crowned Emperor</title>
+    <title>Democratic Republic of the Conogo Declare Independence</title>
     <date type="start">
-      <year>1804</year>
-      <month>12</month>
-      <day>02</day>
+      <year>1960</year>
+      <month>06</month>
+      <day>30</day>
       <era>AD</era>
     </date>
     <date type="end">
-      <year>1814</year>
+      <year>1960</year>
+      <month>06</month>
+      <day>30</day>
       <era>AD</era>
     </date>
-    <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.
-    His first reign as Emperor ends when he abdicates in 1814</description>
-    <lat>48.8530</lat>
-    <lon>2.3499</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
-  </event>
- </track>
-</events>
+    <description>The Democratic Republic of the Congo gained independence from Belgium June 30, 1960 making it the beginning of self rule
+    </description>
+    <lat>-4.4419</lat>
+    <lon>15.2663</lon>
+    <media>https://www.britannica.com/place/Democratic-Republic-of-the-Congo/Mobutus-regime</media> 
+    </event>
+    </track>
+    </events>
